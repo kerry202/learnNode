@@ -1,0 +1,6 @@
+2.2.4 Zygote进程启动总结Zygote进程启动共做了如下几件事：
+（1）创建AppRuntime并调用其start方法，启动Zygote进程。
+（2）创建Java虚拟机并为Java虚拟机注册JNI方法。
+（3）通过JNI调用ZygoteInit的main函数进入Zygote的Java框架层。
+（4）通过registerZygoteSocket方法创建服务器端Socket，并通过runSelectLoop方法等待AMS的请求来创建新的应用程序进程。
+（5）启动SystemServer进程。
