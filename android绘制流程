@@ -1,0 +1,3 @@
+1。view绘制流程，指的是measure测量 layout布局 draw绘制
+2。vie的绘制流程入口，我们都知道activity由window，decorview（titleView，contentView）构成，
+
