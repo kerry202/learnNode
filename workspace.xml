@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3154ca6-12d8-4d2f-87f7-8638709e86c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Android/ActivityManagerService.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Activity启动过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android 中的 ClassLoader.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android9.0非SDK接口限制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android匿名共享内存-Ashmem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android基础temp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android新特性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android系统启动.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Android系统架构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Apk打包流程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Binder机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Bitmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/ContentProvider启动过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Context.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Dalvik和ART.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/DataBinding原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/001.Android系统架构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/001.Android系统架构/001.Android系统架构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/ActivityManagerService.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/Context.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/WindowManagerService.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/包管理机制和PMS/000.目录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/包管理机制和PMS/001.PackageManager简介.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Framework/应用程序进程启动.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Handler.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/HandlerThread.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Hook技术.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/IntentService.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/JNI基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Jetpack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/LayoutInflater.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/MMKV.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/MVC、MVP、MVVM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/RecyclerView.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/Service启动过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/ViewPager2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/View体系.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/View绘制流程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/WindowManagerService.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/kotlin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/v1、v2、v3签名区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/事件分发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/代办.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/保活.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/函数式编程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/协程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/广播启动过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/应用程序进程启动过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/01.应用崩溃优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/02.内存优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/03.绘制优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/04.App启动速度优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/05.IO优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/06.数据存储优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/07.SQLite优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/08.网络优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/09.电量优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/10.Apk包优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/11.高效的测试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/12.发布版本优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/启动优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/电量优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/性能优化/绘制优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/换肤方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/插件化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/热修复.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/ARouter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/ButterKnife.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/Dagger2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/EventBus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/Glide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/GreenDao.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/Leakcanary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/Okhttp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/Retrofit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/第三方源码/RxJava.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android/组件化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/C++/C++基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/C/C基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/C/Linux基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Flutter/Dart/Dart语言.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Flutter/Dart语言.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Flutter/Flutter实战/01.第一个Flutter应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Flutter/Flutter实战/02.基础Widget.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Flutter/Flutter实战/03.布局类组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Flutter/Flutter实战/04.容器类组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/001.reset和checkout区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/000.目录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/001.Git理论基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/002.查看工作状态和历史提交.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/003.回到过去.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/004.版本对比.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/005.修改最后一次提交、删除文件和重命名.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/006.创建和切换分支.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/007.合并分支和删除分支.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part01/008.匿名分支和checkout命令.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part02/000.目录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part02/001.基本操作.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part02/002.分支管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git/part02/003.标签.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/000.目录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/001.Groovy基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/002.Gradle基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/000.目录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/001.Gradle 版 Hello World.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/001.Gradle基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/002.Gradle Wrapper.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/003.Gradle 日志.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/004.Gradle 命令行.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/004.Gradle构建脚本基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/005.Groovy基础_字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/006.Groovy基础_集合.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/007.Groovy基础_方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/008.Groovy基础_JavaBean.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/009.Groovy基础_闭包.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/010.DSL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Gradle/part01/011.Settings文件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/ArrayList源码分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/ConcurrentHashMap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/CopyOnWriteArrayList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/HashMap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/JavaIO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/Java基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/Java容器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/Java并发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/Java线程池.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/Java虚拟机.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/LinkedHashMap源码分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/LinkedList源码分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/PriorityQueue源码分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/synchronized锁升级优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/反射与动态代理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/异常体系.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java/泛型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/NDK/JNI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Python/Python基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Python/bili视频爬虫.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Python/一个图片爬虫例子.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/android绘制流程" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/1.6内存区域.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/1.7hash链表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/1.8hash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/1.8hash1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/1.8内存区域.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/17CM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/5.0-8.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/5.0电量优化.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/ABA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Actiovity构成.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Activity启动过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Activity栈.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Activity组成.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Android系统启动流程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Atomic类.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/CachedThreadPool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/DNS层次结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Hook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/IO体系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/IO控制方式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/Instantrun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/JVMGC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/JVM内存1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/JVM内存2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/UDP数据报格式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/View体系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/WindowManager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/android-stack_2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/apk签名过程.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/binder机制.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/c_数据类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/ca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/channel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/check.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/context.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/context继承.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/c数据类型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/c编译过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/dart线程模型.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/dump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/event.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/executor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/final-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/gc root.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/git_diff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/git_reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/git_reset_checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/git基本操作.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/gradle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/handler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/http.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/http2.0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/https.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/https原理.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/http报文结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/http请求.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/iostream2xx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/ip互联.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/javacrash.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/java线程的状态.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/java编译.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/jetpack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/linux目录结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/mvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/mvp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/mvvm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/newFixedThreadPool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/newSingleThreadExecutor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/okhttp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/oopxxx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/osi模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/p2p和cs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/pcb内容.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/sche2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/scrr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/service启动过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/servie生命周期.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/tcpip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/tcpip和osi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/tcp报文.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/tcp报文段.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/topbanner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/udp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/v1签名.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/v2签名.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/v3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/view坐标.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/wrapper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/wrappertest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/www.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/三次握手.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/三种常用的数据编码方式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/三种数据交换的方式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/两级目录结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/中断.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/中断处理过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/二叉查找树.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/二叉查找树问题.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/五层协议.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/代理模式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/以存储器为中心的计算机结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/使用示意.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/依赖关系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/保活.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/典型冯诺依曼机.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/内存模型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/加密方式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/协议接口服务.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/单向关联.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/单模光纤.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/单级目录结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/双向关联.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/双绞线.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/受检异常.webp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/右旋.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/同轴电缆.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/四次挥手.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/域名解析过程.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/复制.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/多模光纤.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/实现关系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/对象的创建.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/对象的访问.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/小顶堆.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/小顶堆.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/左旋.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/左旋右旋规则.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/常用的系统服务1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/常用的系统服务2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/应用层协议.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/循环队列.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/快恢复.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/慢开始.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/手机淘宝.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/拓扑.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/指令执行.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/控制连接.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/操作系统历史.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/数字签名.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/数字调制.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/数据编码.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/无环图目录结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/时隙ALOHA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/普通Activity创建.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/标记整理.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/标记清除.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/树形目录结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/校验.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/根Activity启动过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/模型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/死锁.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/消息机制.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/电子邮件.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/电子邮件发送接收过程.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/磁盘结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/程序装入过程.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/类加载修复.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/类加载器.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/类图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/类生命周期.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/系统结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/纯ALOHA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/线程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/线程模型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/线程池执行的过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/线程状态转换.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/线程调度.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/组件化.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/组件化架构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/组合关系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/继承关系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/编译过程.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/聚合关系.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/自关联.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/计算机功能.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/计算机系统多层次结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/边缘部分.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/运行时数据区.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/进程状态转换.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/逻辑结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/链式存储结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/集合框架.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/集合框架2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/非受检异常.webp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/asset/高速缓存区.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/http和https" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/001.HTTP1.0、HTTP2.0、HTTP3.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/HTTP和HTTPS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/博客.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/滑动窗口.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/知识点总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/红黑树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/其他/面经整理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/密码学/001.密码学概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/密码学/002.凯撒密码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/密码学/003.对称加密.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/密码学/004.消息摘要.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/密码学/005.非对称加密.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/密码学/006.数字签名.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/操作系统/001.计算机系统概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/操作系统/002.进程管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/操作系统/003.内存管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/操作系统/004.文件管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/操作系统/005.输入输出（IO）管理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/001.绪论.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/002.线性表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/003.栈和队列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/004.串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/005.树与二叉树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/006.图.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/007.查找.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/008.排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/01.数据结构和算法概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/02.排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/03.线性表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/part01/000.目录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/part01/001.数据结构与算法的关系.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/part01/002.线性结构和非线性结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/part01/003.稀疏数组.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/part01/004.队列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/part01/005.单链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/数据结构/part01/006.单链表面试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/正则/正则表达式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/labuladong的算法小抄.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/03.数组中重复的数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/04.二维数组中的查找.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/05.替换空格.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/06.从尾到头打印链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/07.重建二叉树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/10-1.斐波那契数列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/10-2.青蛙跳台阶.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/22.链表倒数第k个节点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/40.最小的k个数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/57-2.和为s的连续正数序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/67.把字符串转换成整数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/68-1.二叉搜索树中的最近公共祖先.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/剑指Offer/68-2.二叉树的最近公共祖先.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/排序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/算法训练/字符串/387.字符串中的第一个唯一字符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/算法训练/字符串/58.最后一个单词的长度.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/算法训练/字符串/709.转换成小写字母.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/算法训练/字符串/8.字符串转换整数 (atoi).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/算法/算法训练营.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机组成原理/001.计算机系统概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机组成原理/002.数据的表示和运算.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机组成原理/003.存储系统.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机组成原理/004.指令系统.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机组成原理/005.中央处理器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机组成原理/006.总线.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机组成原理/007.IO系统.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/001.计算机网络概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/002.物理层.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/003.数据链路层.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/004.网络层.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/005.传输层.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/006.应用层.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/other/001.HTTP1.0、HTTP2.0、HTTP3.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/计算机网络/计算机网络.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/001.设计模式七大原则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/002.设计模式简介.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/003.UML.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/004.创建者模式_单例模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/005.创建者模式_工厂模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/006.创建者模式_原型模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/007.创建者模式_建造者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/008.结构型模式_适配器模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/009.结构型模式_代理模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/010.结构型模式_装饰者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/011.结构型模式_桥接模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/012.结构型模式_外观模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/013.结构型模式_享元模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/014.结构型模式_组合模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/015.结构型模式_桥接模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/016.行为型模式_模板模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/017.行为型模式_策略模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/018.行为型模式_命令模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/019.行为型模式_职责链模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/020.行为型模式_状态模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/021.行为型模式_观察者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/022.行为型模式_中介者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/023.行为型模式_迭代器模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/024.行为型模式_访问者模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/025.行为型模式_备忘录模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/026.行为型模式_解释器模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/设计模式/027.模式对比.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/音视频/001.音视频基本知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnNode.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rESnlM6PQUwBgiQSRL0fiihoKK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\kerry202\util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\kerry202\util\.idea" />
+      <recent name="F:\kerry202\util\.idea\Android" />
+      <recent name="F:\kerry202\util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LearnNode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LearnNode" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3154ca6-12d8-4d2f-87f7-8638709e86c0" name="Default Changelist" comment="" />
+      <created>1618539924975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618539924975</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feat:单向链表">
+      <created>1618540119008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618540119008</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat:git 提交管理">
+      <created>1618540219658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618540219658</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat:studio 快捷键">
+      <created>1618554486205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618554486205</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat:zygote 启动总结">
+      <created>1619433904115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619433904115</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat:mmkv">
+      <created>1619592208910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619592208910</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat:单向链表" />
+    <MESSAGE value="feat:git 提交管理" />
+    <MESSAGE value="feat:studio 快捷键" />
+    <MESSAGE value="feat:zygote 启动总结" />
+    <MESSAGE value="feat:mmkv" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:mmkv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1619597327807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1619597327807" />
+    <state x="667" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619596171404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1619596171404" />
+    <state x="607" y="85" key="CommitChangelistDialog2" timestamp="1619592208170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="85" key="CommitChangelistDialog2/0.0.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1619592208170" />
+    <state x="601" y="252" key="Vcs.Push.Dialog.v2" timestamp="1619592905019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1619592905019" />
+    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1619597303220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="536" key="find.popup/0.0.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1619597303220" />
+    <state x="686" y="306" key="git4idea.merge.GitPullDialog" timestamp="1619592475247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040/-1920.13.1920.1040@0.0.1920.1040" timestamp="1619592475247" />
+  </component>
+</project>
